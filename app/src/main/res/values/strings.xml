@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Annamacharya Kirthis Vol - 1</string>
+
+    AdMob
+    <string name="banner_id">ca-app-pub-9834630120933643/6176719419</string>
+    <string name="full_ad_id">ca-app-pub-9834630120933643/7653452614</string>
+    <string name="native_ad_id">ca-app-pub-9834630120933643/5878041589</string>
+    <string name="app_id_admob">ca-app-pub-9834630120933643~4699986210</string>
+
+    <string name="play_more_apps">https://play.google.com/store/apps/dev?id=8151393323551648680</string>
+
+</resources>
